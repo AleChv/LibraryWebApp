@@ -1,0 +1,13 @@
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\bin\Debug\net6.0\LibraryWebApp.Models.deps.json
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\bin\Debug\net6.0\LibraryWebApp.Models.dll
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\bin\Debug\net6.0\LibraryWebApp.Models.pdb
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.csproj.AssemblyReference.cache
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.AssemblyInfo.cs
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.sourcelink.json
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.dll
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\refint\LibraryWebApp.Models.dll
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\LibraryWebApp.Models.pdb
+C:\Users\Zero Legion\Documents\LibraryWeb\LibraryWebApp.Models\obj\Debug\net6.0\ref\LibraryWebApp.Models.dll
